@@ -30,3 +30,11 @@ codekit-config.json
 .sass-cache
 _asset_bundler_cache
 _site
+
+#obsidian
+.DS_Store
+.obsidian/
+obsidian/workspace.json
+.obsidian/workspace.json
+obsidian/workspace-mobile.json
+.obsidian/workspace-mobile.json 
